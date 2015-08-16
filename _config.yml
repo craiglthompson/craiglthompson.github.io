@@ -1,0 +1,37 @@
+# Site settings
+title: Craig L. Thompson
+email: mailtocraiglthompson@gmail.com
+description: This website was made using Bootstrap - Jekyll - liquid - GitHub Pages - Tumblr.
+url: "http://craiglthompson.com" # the base hostname & protocol for your site
+twitter_username: craiglthompson
+paginate: 6
+
+# Build settings
+markdown: kramdown
+permalink: /:title
+
+#Default settings
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      author: Craig Thompson
+      layout: "post"
+      category: tidbits
+      comments: true
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "pages" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "page"
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "drafts" # previously `post` in Jekyll 2.2.
+    values:
+      author: Craig Thompson
+      layout: "post"
+      category: tidbits

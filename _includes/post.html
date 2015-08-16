@@ -1,0 +1,19 @@
+<article class="prose">
+
+  {{post.body}}
+
+  <ul class="list_horizontal">
+  {% for tag in taxonomy.topics %}
+
+    <li><a class="button button_small button_grey_light" href="{{tag.url}}">{{tag.value}}</a></li>
+
+  {% endfor %}
+  </ul>
+
+  {% if parent.slug == "notes" %}
+    <h6>Posted {{post.date | date: "%b %d, %Y"}}</h6>
+  {% endif %}
+
+</article>
+
+{% include 'includes/pagination' %}

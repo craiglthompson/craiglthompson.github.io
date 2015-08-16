@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta content="width=device-width, initial-scale=1" name="viewport">
+  <title>{{site.title}} | {{title}}</title>
+  <link rel="alternate" type="application/rss+xml" href="{{site.feed_url}}" />
+  <link rel="stylesheet" type="text/css" href="/_assets/stylesheets/base.css" />
+  <link rel="stylesheet" type="text/css" href="/_assets/webfonts/ss-junior.css" />
+ <script src="//use.typekit.net/qew4vpu.js"></script>
+<script>try{Typekit.load();}catch(e){}</script>
+
+</head>
+
+<body>
+
+  <header class="section wrap grid_container group">
+    <div class="grid grid_2">
+      <h1 class="logo mobile_center">
+        <a href="/" class="link_grey_dark">{{site.title}}</a>
+      </h1>
+    </div>
+    <div class="grid grid_4">
+      <ul class="list_horizontal h6 right mobile_center">
+        <li>
+          <a href="/work" class="mr1-r link_grey{% if url == '/work' or parent.url == '/work' %} link_selected{% endif %}">
+            Work
+          </a>
+        </li>
+        <li>
+          <a href="/notes" class="mr1-r link_grey{% if url == '/notes' or parent.url == '/notes' or parent.parent.url == '/notes' %} link_selected{% endif %}">
+            Notes
+          </a>
+        </li>
+        <li>
+          <a href="/about" class="mr1-r link_grey{% if url == '/about' or parent.url == '/about' %} link_selected{% endif %}">
+            About
+          </a>
+        </li>
+        
+      </ul>
+    </div>
+  </header>
+
+  <section>
+
+    {% for asset in assets %}
+      {% if asset.meta.type == "header" %}
+        <header class="image_header background_cover" style="background-image: url('{{asset.url}}');">
+        </header>
+      {% endif %}
+    {% endfor %}
+    
+    <div class="section wrap">
+      <h2>
+        {{post.title | capitalize }}
+      </h2>
+    </div>
+
+    <div class="section wrap">
+
+      {{content}}
+
+    </div>
+
+  </section>
+
+  <footer class="bg_grey_lightest overflow_hide">
+    <div class="section wrap grid_container group">
+      <ul class="grid grid_5 list_horizontal h6 mobile_center">
+        <li>
+          <a href="/work" class="mr1-r link_grey">Work</a>
+        </li>
+        <li>
+          <a href="/notes" class="mr1-r link_grey">Notes</a>
+        </li>
+        <li>
+          <a href="/about" class="mr1-r link_grey">About</a>
+      
+      <a href="http://rd.io/x/QVkUBzMyohk/" target="_blank" class="grid grid_1 link_grey mobile_center">
+        <span class="ss-icon right">Flash</span>
+      </a>
+    </div>
+  </footer>
+
+</body>
+</html>
+

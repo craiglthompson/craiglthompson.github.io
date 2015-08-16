@@ -1,0 +1,15 @@
+---
+title:  "Research and Design"
+date:   2015-08-15 09:19:55
+image: research.png
+---
+
+Every project I work on starts with research, getting on the web and talking to people which starts a process of discovery.<br /> 
+
+It's important to lay a good solid foundation for the project by using the story of the organisation and people at the heart of it.<br />
+
+<ul>
+<li>What shows up in an image search? I start to plan ahead, collect information and develop.</li><br>
+<li>Talk to people and see what I can learn and mine from the local history to fuel the designs.</li><br>
+<li>What other organisations are doing.</li><br>
+</ul>
