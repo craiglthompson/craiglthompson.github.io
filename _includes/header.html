@@ -4,7 +4,7 @@
   <div class="grid">
     <div class="grid__col--12">
       <a class="site-logo" href="/" title="CLT | Craig L. Thompson – Home">
-        <span style="text-transform: uppercase;"<strong>C<span style="color: #0288d1;">L</span>T</strong></span>
+        <span style="text-transform: uppercase;"<strong>CRAIG  <span style="color: #0288d1;"></span>  THOMPSON</strong></span>
       </a>
       <nav class="navbar" role="navigation">
         <ul class="nav">
@@ -16,18 +16,18 @@
           <li {% if location == current %} class="nav__item--current" {% else %} class="nav__item" {% endif %}>
             <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
 
-          
+
           </li>
           {% endif %}
-          
+
         {% endfor %}
 
         <li  class="nav__item" >
             <a title="Go to Tumblr gallery" target="blank" href="http://www.craiglikesdesign.com/">Gallery</a>
-          
-          
+
+
           </li>
-          
+
         </ul>
       </nav>
     </div>
