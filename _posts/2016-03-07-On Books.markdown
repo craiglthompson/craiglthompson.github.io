@@ -1,0 +1,44 @@
+---
+title:  "The Year Without Pants"
+date:   2016-03-07 21:29:55
+image: pantsless.png
+---
+
+I like to read a lot of books but don't often talk about that, I do post them all to GoodReads though if you're interested in some eclectic reading.<br>
+
+What I'm currently reading:<br>
+
+<ul>
+<li>The Three Body Problem by Cixin Liu. Brilliant SF set in communist 'Soviet' era China packed with authentic detail.  </li><br>
+<li>City on Fire by Garth Risk Hallberg. I keep coming back to this 900+ page epic 1st novel which is really good, could be edited down a little in my opinion.</li><br>
+</ul><br>
+
+The last books I read that were 'professional' or work related:<br>
+<ul>
+<li>How to Win Friends and Influence People by Dale Carneige - A seminal book on how to conduct oneself to get along with people better.  </li><br>
+<li>Creativity, Inc. by Ed Catmull - A great book about creativity and managing people but also a great story about how Disney and Pixar successfully merged two creatively different companies to the mutual benefit of both.  </li><br>
+<li>The Year Without Pants by Scott Berkun - A year inside a radical company leading the way in open source and sustainable business models.</li><br><br>
+
+The book I'm most excited about sharing is Scott Berkun’s: “The Year without Pants: WordPress.com and the Future of Work,”.
+Burkun is a business writer who was invited by Matt Mullenweg, WordPress creator to work inside the company for a year, and write a book about what makes WordPress so unique.<br><br>
+
+As a professional working in WordPress Matt is a legendary figure and this book is super interesting to me. The story of how Mullenweg  started WordPress from a then Google developer's open source side project for publishing photos is incredible. From there Mullenwag worked with Sergey Brin, recruited the original developer of the photo publishing software, and quickly released WordPress' first versions. The timing was right as Moveable Type, the biggest publishing platform at the time, changed it's pricing model, leading to the beginning of WordPress' mass adpotion.<br><br>
+
+WordPress grew and grew with the help of thousands of volunteer contributors around the world and remains a not-for-profit run by WordPress.org (originally WordPress.com wasn't available but Wordpress.com and .net were). Much of the book focuses on how WordPress has spun of a business which has a symbiotic partnership with WordPress.com. Automattic is the business which provides hosting on the WordPress.com infrastructure as well as other professional services. Money from Automattic directly supports WordPress.com core development and WordPress' core development is supported by Automattic's success.<br><br>
+
+The book focuses on the business side of Automattic. Automattic doesn't use email a lot, is a company of hundreds spead across the globe using remote connections, has an open vacation policy, and extraordinary leadership and planning. The forward planning is very impressive with Mullenweg interviewed online recently, talking about WordPress in 10 years' time in much more detail than even Gabe Newell reveals about Valve, another creatively run customer focussed company.<br><br>
+
+In the spirit of Valve all Automattic employees are started off by answering customer queries, through their ticketing system. These newbies are given the title 'Happiness Engineers' and the role it plays in creating a customer focussed approach is one reason why WordPress became as successful as it has; avoiding or learning from the disaster Movebale Type made.<br><br>
+
+WordPress' values are as follows:
+
+<ul><li><strong>Transparency</strong> - Discussions about bug fixes, features, and other changes are public.</li>
+<li><strong>Meritocracy</strong> - Employees earn respect based on the contributions they make. Job titles aren’t very important. Automattic avoids hierarchy and bureaucracy, and services like HR and legal are in service of the creators.</li>
+<li><strong>Longevity</strong> - As an open source product, WordPress can survive no matter what Automattic does with it; anyone can take the code and “fork” it to form a new version.</li>
+</ul><br><br>
+
+WordPress understands a number of things about modern enterprise, their job title policy (anyone who's had a job title knows how they never fit and are outgrown fast) is ditched mostly in favour of rewarding good work (again same as Valve through anonymous vote). The clever approach of not-for-profit and business supporting one another and finally the transparency and public serving nature of both the business and not-for-profit are working to create a sustainable platform which only looks likely to grow as it adpots Javascript more and more.<br><br>
+
+I'm extremely interested in WordPress' future as it takes a leap into the modern web application approach. Using javascript for more processes, using react and other technologies brought about by Facebook, Twitter and other Silicon Valley companies.<br><br>
+
+I recommend this book to anyone working in WordPress development, software development and business. It's a very readable book by a great author. Burkun tells a great story and describes the people involved and events with a lot of personality.<br><br>
