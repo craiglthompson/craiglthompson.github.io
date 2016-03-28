@@ -5,10 +5,10 @@ image: ulysses.jpg
 ---
 
 <strong>Hello World</strong><br>
-This is the very first sentence I am writing in the dedicated writing app I just bought from the app store. I want to talk about it a bit and share my initial (positive) experience writing with it.<br><br>
+This is the very first sentence I am writing in the dedicated writing app I just bought from the app store. I want to talk about it a bit and share my initial <em>positive</em> experience writing with it.<br><br>
 
 <strong>The Problem</strong><br>
-I am long winded. I rely on editing, nothing i wrote ever got past an English teacher without coming back with <strong>be more succinct</strong> written indelibly — and carbon copied to my mind’s eye. The trouble is it’s easy to fall into old habits; regress, and in my case ease into meandering ramble for a thousand words. I’m also short of time <em>who isn’t?</em> and so easily tempted to quickly blog out an article. I would always find what I’d written to be full of errors, lacking continuity, and breaking the divine rule <strong>be more succinct</strong>.<br><br>
+I am long winded. I rely on editing, nothing i wrote ever got past an English teacher without coming back with <strong>be more succinct</strong> written indelibly, and carbon copied to my mind’s eye. The trouble is it’s easy to fall into old habits; regress, and in my case ease into meandering ramble for a thousand words. I’m also short of time <em>who isn’t?</em> and so easily tempted to quickly blog out an article. I would always find what I’d written to be full of errors, lacking continuity, and breaking the divine rule <strong>be more succinct</strong>.<br><br>
 
 <strong>My Solution</strong><br>
 Technology. If I’m going to invest my time into something it makes sense to invest finances to the pursuit also. There are a number of reasons this makes sense:<br><br>
