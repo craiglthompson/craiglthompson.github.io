@@ -29,13 +29,13 @@ This app is dedicated to writing. As a designer I <strong>love</strong> it’s s
 <strong>Keyboard Shortcuts</strong>
 My favourite feature of Ulysses is the simple keyboard shortcuts. For example pressing Command+9 reveals the markup commands to automatically apply styles to titles and lists. When exported as a web page this is super handy.
 
-Here is a list <em>(but not a full one)</em> of the markup:
+Here is a list <em>but not a full one</em> of the markup:
 
 <ul>
-<li> ‘#’ Heading 1</li>
-<li> ‘##’ Heading 2 {this continues up to ‘######’ Heading 6}</li>
-<li> ‘%%’ Comment block</li>
-<li> ‘ “ ‘ Code block</li>
+<li> Headings</li>
+<li> Images</li>
+<li> Lists</li>
+<li> Comments and code.</li>
 </ul>
 
 These are incredibly intuitive to use and will save me time and effort; it has been well worth getting familiar with them which i’ve managed to do whilst writing this first post.
