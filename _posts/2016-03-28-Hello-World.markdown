@@ -17,7 +17,7 @@ Technology. If I’m going to invest my time into something it makes sense to in
 <li> I enjoy it <em>and it helps me learn new things and share them with others<em></li>
 <li> I should remove obstacles such as crappy hardware and software</li>
 <li> Double down — Investing both time and money concentrates my commitment.</li>
-<ol>
+</ol>
 
 This has been proven to work for me in the past. I bought a Mac to boost my efficiency in work, despite being a life long PC user and the eye watering price tag. And the result is that I want to spend more time on work, as the hardware is a joy to use, I don’t get distracted by PC problems, and I get more done.
 
