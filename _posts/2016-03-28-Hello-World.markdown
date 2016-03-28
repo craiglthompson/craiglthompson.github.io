@@ -36,10 +36,6 @@ Here is a list <em>(but not a full one)</em> of the markup:
 <li> ‘##’ Heading 2 {this continues up to ‘######’ Heading 6}</li>
 <li> ‘%%’ Comment block</li>
 <li> ‘ “ ‘ Code block</li>
-<li> ‘----’ Divider</li>
-<li> ‘1.’ Ordered list</li>
-<li> ‘-‘ Unordered list</li>
-<li> ‘>’ Blockquote</li>
 </ul>
 
 These are incredibly intuitive to use and will save me time and effort; it has been well worth getting familiar with them which i’ve managed to do whilst writing this first post.
