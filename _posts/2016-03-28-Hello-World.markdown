@@ -8,7 +8,7 @@ image: ulysses.jpg
 This is the very first sentence I am writing in the dedicated writing app I just bought from the app store. I want to talk about it a bit and share my initial ++positive++I experience writing with it.
 
 ##The Problem
-I am long winded. I rely on editing, nothing i wrote ever got past an English teacher without coming back with *be more succinct* written indelibly — and carbon copied to my mind’s eye. The trouble is it’s easy to fall into old habits; regress, and in my case ease into meandering ramble for a thousand words. I’m also short of time ++who isn’t?++ and so easily tempted to quickly blog out an article. I would always find what I’d written to be full of errors, lacking continuity, and breaking the divine rule **thou shalt***be more succinct*.
+I am long winded. I rely on editing, nothing i wrote ever got past an English teacher without coming back with *be more succinct* written indelibly — and carbon copied to my mind’s eye. The trouble is it’s easy to fall into old habits; regress, and in my case ease into meandering ramble for a thousand words. I’m also short of time ++who isn’t?++ and so easily tempted to quickly blog out an article. I would always find what I’d written to be full of errors, lacking continuity, and breaking the divine rule *be more succinct*.
 
 ##My Solution
 Technology. If I’m going to invest my time into something it makes sense to invest finances to the pursuit also. There are a number of reasons this makes sense:
@@ -27,7 +27,7 @@ This app is dedicated to writing. As a designer I **love** it’s simplicity, us
 ###Keyboard Shortcuts
 My favourite feature of Ulysses is the simple keyboard shortcuts. For example pressing Command+9 reveals the markup commands to automatically apply styles to titles and lists. When exported as a web page this is super handy.
 
-Here is a list *(but not a full one)*of the markup:
+Here is a list *(but not a full one)* of the markup:
 - ‘#’ Heading 1
 - ‘##’ Heading 2 {this continues up to ‘######’ Heading 6}
 - ‘%%’ Comment block
