@@ -4,9 +4,6 @@ date:   2016-03-28 23:58:55
 image: ulysses.jpg
 ---
 
-		<title>Hello World</title>
-	</head>
-<body>
 <h1>Hello World</h1>
 
 <p>This is the very first sentence I am writing in the dedicated writing app I just bought from the app store. I want to talk about it a bit and share my initial I experience writing with it. </p>
@@ -47,7 +44,6 @@ image: ulysses.jpg
 	<li>‘----’ Divider</li>
 	<li>‘1.’ Ordered list</li>
 	<li>‘-‘ Unordered list</li>
-	<li>‘&gt;’ Blockquote</li>
 </ul>
 
 <p>These are incredibly intuitive to use and will save me time and effort; it has been well worth getting familiar with them which i’ve managed to do whilst writing this first post. </p>
