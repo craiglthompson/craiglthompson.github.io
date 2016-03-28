@@ -1,7 +1,7 @@
 ---
 title:  "Hello World"
 date:   2016-03-28 23:58:55
-image: ulysses.jpg
+image: ulysses.png
 ---
 
 <strong>Hello World</strong><br>
