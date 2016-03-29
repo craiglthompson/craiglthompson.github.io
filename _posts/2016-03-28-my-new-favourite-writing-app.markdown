@@ -1,5 +1,5 @@
 ---
-title:  "Hello World: My New Favourite Writing App"
+title:  "My New Favourite Writing App"
 date:   2016-03-28 23:58:55
 image: ulysses.png
 ---
