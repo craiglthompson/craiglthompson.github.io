@@ -38,5 +38,5 @@ I have worked on the following websites:<br>
 <a href="http://strava.com/athletes/6725087/badge" class="strava-badge- strava-badge-follow" target="_blank"><img src="//badges.strava.com/echelon-sprite-48.png" alt="Strava" /></a>
 <br />
 <h4>I also like to read, find me on GoodRead</h4>
-<span style="color: #382110">my read shelf:</span><br/><a href="https://www.goodreads.com/review/list/6417785?shelf=read" title="Craig Thompson's book recommendations, liked quotes, book clubs, book trivia, book lists (read shelf)"><img border="0" alt="Craig Thompson's book recommendations, liked quotes, book clubs, book trivia, book lists (read shelf)" src="https://www.goodreads.com/images/badge/badge1.jpg"></a>
+<span style="color: #382110">my read shelf:</span><br/><a href="https://www.goodreads.com/review/list/6417785?shelf=read" target="_blank" title="Craig Thompson's book recommendations, liked quotes, book clubs, book trivia, book lists (read shelf)"><img border="0" alt="Craig Thompson's book recommendations, liked quotes, book clubs, book trivia, book lists (read shelf)" src="https://www.goodreads.com/images/badge/badge1.jpg"></a>
 <br />
