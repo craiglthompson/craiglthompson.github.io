@@ -26,3 +26,12 @@ I have worked on the following websites:<br>
 <li><a title="Hillcrest Academy" target="_blank" href="http://www.hillcrest.leeds.sch.uk">Hillcrest Academy</a></li>
 <li><a title="LEARN.ORG.UK LIMITED" target="_blank" href="http://www.2learn.org.uk">LEARN.ORG.UK LIMITED</a></li>
 </ul>
+
+<br /><br />
+<h4>I'm a keen runner, find my on Strava</h4><br />
+<a href="http://strava.com/athletes/6725087/badge" class="strava-badge- strava-badge-follow" target="_blank"><img src="//badges.strava.com/echelon-sprite-48.png" alt="Strava" /></a>
+<br /><br />
+<h4>I also like to read, find me on GoodRead</h4>
+<br />
+<span style="color: #382110">my read shelf:</span><br/><a href="https://www.goodreads.com/review/list/6417785?shelf=read" title="Craig Thompson's book recommendations, liked quotes, book clubs, book trivia, book lists (read shelf)"><img border="0" alt="Craig Thompson's book recommendations, liked quotes, book clubs, book trivia, book lists (read shelf)" src="https://www.goodreads.com/images/badge/badge1.jpg"></a>
+<br /><br />
