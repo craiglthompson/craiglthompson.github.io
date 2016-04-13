@@ -28,10 +28,15 @@ I have worked on the following websites:<br>
 </ul>
 
 <br /><br />
-<h4>I'm a keen runner, find my on Strava</h4><br />
+<h4>I'm a keen runner, find my on Strava</h4>
+<style>
+  .strava-badge- { display: inline-block; height: 48px; }
+  .strava-badge- img { visibility: hidden; height: 48px; }
+  .strava-badge-:hover { background-position: 0 -63px; }
+  .strava-badge-follow { height: 48px; width: 48px; background: url(//badges.strava.com/echelon-sprite-48.png) no-repeat 0 0; }
+</style>
 <a href="http://strava.com/athletes/6725087/badge" class="strava-badge- strava-badge-follow" target="_blank"><img src="//badges.strava.com/echelon-sprite-48.png" alt="Strava" /></a>
 <br /><br />
 <h4>I also like to read, find me on GoodRead</h4>
-<br />
 <span style="color: #382110">my read shelf:</span><br/><a href="https://www.goodreads.com/review/list/6417785?shelf=read" title="Craig Thompson's book recommendations, liked quotes, book clubs, book trivia, book lists (read shelf)"><img border="0" alt="Craig Thompson's book recommendations, liked quotes, book clubs, book trivia, book lists (read shelf)" src="https://www.goodreads.com/images/badge/badge1.jpg"></a>
 <br /><br />
