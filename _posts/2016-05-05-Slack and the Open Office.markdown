@@ -5,7 +5,7 @@ image: slack.png
 ---
 
 
-<a href="http://www.tgat.org.uk/" title="The GORSE Academies Trust's website" alt="visit The GORSE Academies Trust's website">The GORSE Academies Trust</a> is undergoing a digital transformation. Websites have moved to the open source CMS WordPress and teams have adopted a variety of task management software. However, between Asana, Wrike, Zendesk, Trello, Whats App, Google Analytics, it all got a bit confusing.
+<a href="http://www.tgat.org.uk/" title="The GORSE Academies Trust's website" alt="visit The GORSE Academies Trust's website">The GORSE Academies Trust</a> is undergoing a digital transformation. Websites have moved to the open source CMS WordPress and teams have adopted a variety of task management software. However, between Asana, Wrike, Zendesk, Trello and Google Analytics, it all got a bit confusing.
 
 <h3>The solution</h3>
 
