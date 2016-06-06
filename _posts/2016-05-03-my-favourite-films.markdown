@@ -28,7 +28,7 @@ The late film critic Roger Ebert set me on to Hirokazu Koreeda. His films includ
 <li>Still Walking</li>
 <li>After Life </li>
 <li>Air Doll.</li>
-
+<br>
 
 <h3>Werner Herzog (<em>dir</em>)</h3>
 Werner Herzog is a documentarian who goes to extraordinary lengths to capture the story he wants to tell on film. A lot has been said about the relationship with lead actor Klaus Kinski and the troubles on sets of films such as Fitzcarraldo. He has a large body of work, here are the ones I most enjoyed.<br><br>
@@ -37,7 +37,7 @@ Werner Herzog is a documentarian who goes to extraordinary lengths to capture th
 <li><strong>Happy People: A Year in the Taiga</strong></li>
 <li>Bad Lieutenant: Port of Call New Orleans</li>
 <li>Invincible. </li>
-
+<br>
 
 <h3>James Stewart</h3>
 I love watching James Stewart:<br><br>
@@ -50,7 +50,7 @@ I love watching James Stewart:<br><br>
 <li>The Man Who Knew Too Much</li>
 <li>Vertigo</li>
 <li>Anatomy of a Murder. </li>
-
+<br>
 
 <h3>Woody Allen (<em>dir</em>)</h3>
 <li>Everyone Says I Love You</li>
@@ -58,7 +58,7 @@ I love watching James Stewart:<br><br>
 <li><strong>Love and Death</strong></li>
 <li>Manhattan </li>
 <li>Midnight in Paris.</li>
-
+<br>
 
 <h3>Others</h3>
 <li>Richard Linklater (<em>dir</em>) <strong>Waking Life</strong></li>
