@@ -1,7 +1,7 @@
 ---
-title:  "The Design Bible"
+title:  “Mindful Design”
 date:   2016-08-11 21:05:55
-image: bible.png
+image: zen.jpg
 ---
 
 So far in my career as a designer I’ve always understood the collaborative nature of design and enjoy working towards the best solution to creative problems. Getting to the best solution is often the culmination of numerous people coming together and having a say. 
