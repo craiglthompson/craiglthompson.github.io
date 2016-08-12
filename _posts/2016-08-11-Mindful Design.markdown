@@ -16,7 +16,7 @@ Cap’s approach came about naturally during such a standstill.
 I’m probably a six-out-of-ten, I replied after a couple moments of consideration.
 Cool, then let’s do it your way.”
 
-It’s that simple. It works on the premise that you’re both awesome individuals brought in to the organisation to do great work and you both have a solution that will benefit the organisation. So, who is most passionate about their solution being used to solve this problem? This approach helps create distance from the reactionary response, replacing it with a distanced analytical approach. Aggregating you’re feelings into a digit in this way diffuses the emotion and clears the way for a quick, decisive mutual answer to the problem, allowing progress to be resumed with no hard feelings.
+It’s that simple. It works on the premise that you’re both awesome individuals brought in to the organisation to do great work and you both have a solution that will benefit the organisation. So, who is most passionate about their solution being used to solve this problem? This approach helps create distance from the reactionary response, replacing it with a distanced analytical approach. Aggregating your feelings into a digit in this way diffuses the emotion and clears the way for a quick, decisive mutual answer to the problem, allowing progress to be resumed with no hard feelings.
 
 Rating decisions on that same one-to-ten scale helps identify non-critical decisions I don’t actually care that much about one way or another. I’ll still voice my opinion, this time with “I’m a two-out-of-ten on this, so whatever you want to do is fine.” If the project has far-reaching effects then l might stand by my approach and fight for it a bit more.
 
