@@ -7,7 +7,7 @@ image: 100m.jpg
 
 I went from being an 18 stone 16 year old to an 11 stone 18 year old, shedding 7 stones but I didn’t stop there. Every year of my life, and I’m now 26, I have gotten leaner and fitter and I won’t let this trend end any year soon.
 
-But here’s the thing, 18 stone people hate running. 18 stone people really, really love biscuits and chocolate bars. I got a paper round to help me loose weight in high school and what did I do with my money? spent it on 3 chocolate bars I’d eat on my way. What is going on in that persons mind? That’s the kind of decision a dog would make if it could get a paper round. I like chocolate, I should eat more of it. It’s not a good way to live your life.
+But here’s the thing, 18 stone people hate running. 18 stone people really, really love biscuits and chocolate bars. I got a paper round to help me loose weight in high school and what did I do with my money? Spent it on 3 chocolate bars I’d eat on my way. What is going on in that person’s mind? That’s the kind of decision a dog would make if it could get a paper round. I like chocolate, I should eat more of it. It’s not a good way to live your life.
 
 One reason I might have done it, besides age, is that chocolate is delicious and offers instant gratification and running is the opposite. A vast journey with endless steps, slow progression, and a whole lot of pain and misery. I once set off running from my house, got to the bottom of my road and turned left onto a route which I can now guess would have been 5K, only to get about 0.2K thoroughly defeated. Not having the motivation to rest and jog back home, I slowly drudged back home, my brief elation that I could be a runner replaced with reality.
 
