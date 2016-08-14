@@ -25,8 +25,7 @@ I’ve just entered for my 3rd half marathon. I’ve been pushing myself and usi
 
 Bonus: This is close to what I meant when I talked about running feeling ‘like music’.
 
-\<iframe width="420" height="315" src="[http://www.youtube.com/embed/dQw4w9WgXcQ][1]" frameborder="0" allowfullscreen\>\</iframe\>
+\<div class="x-frame video" data-video="http://www.youtube.com/embed/dQw4w9WgXcQ"\> \</div\>
 
 
 
-[1]:	https://youtu.be/gt2KlkBUgXA?t=1m4s
