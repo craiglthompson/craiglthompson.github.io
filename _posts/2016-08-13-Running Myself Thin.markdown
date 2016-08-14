@@ -25,7 +25,7 @@ I’ve just entered for my 3rd half marathon. I’ve been pushing myself and usi
 
 Bonus: This is close to what I meant when I talked about running feeling ‘like music’.
 
-[!\[WATCH ON YOUTUBE]()(https://youtu.be/gt2KlkBUgXA?t=1m4s/0.jpg)](https://youtu.be/gt2KlkBUgXA?t=1m4s"Mauvais Sang (Leos Carax, 1986) - Modern Love")
+[!\[Everything Is AWESOME]()(http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
 
 <br><br>
 
