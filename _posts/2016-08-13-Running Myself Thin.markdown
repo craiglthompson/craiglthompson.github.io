@@ -25,7 +25,8 @@ I’ve just entered for my 3rd half marathon. I’ve been pushing myself and usi
 
 Bonus: This is close to what I meant when I talked about running feeling ‘like music’.
 
-[!\[Everything Is AWESOME]()(http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
+\<iframe width="420" height="315" src="[http://www.youtube.com/embed/dQw4w9WgXcQ][1]" frameborder="0" allowfullscreen\>\</iframe\>
 
-<br><br>
 
+
+[1]:	https://youtu.be/gt2KlkBUgXA?t=1m4s
