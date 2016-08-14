@@ -23,5 +23,7 @@ As for how this relates to design I have my most free and exciting ideas just be
 
 I’ve just entered for my 3rd half marathon. I’ve been pushing myself and using the pain (or discomfort from extra hard training) to get faster over the past 4 months. I should be knocking 10+ minutes off of my personal best. Which will put me in good stead for my winter training so that I can be strong for next year, when I can beat all of my 2016 times. That’s a lot more pain, it’s the price I accept for progress, and the other benefits I’ve mentioned are bonuses. Push yourself and depending on where you’re at now, it might take 5 years but you have the ability to be among the best of any thing you put your mind to. 
 
+Bonus: This is close to what I meant when I talked about running feeling ‘like music’.
 
+\<iframe width="980" height="600" src="https://youtu.be/gt2KlkBUgXA?t=1m4s" frameborder="0" allowfullscreen\>\</iframe\>
 <br><br>
