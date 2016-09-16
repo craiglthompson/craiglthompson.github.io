@@ -4,7 +4,7 @@ date:   2016-03-28 23:58:55
 image: ulysses.png
 ---
 
-<h1>Hello World</strong></h1>
+<h1>Hello World</h1>
 This is the very first sentence I am writing in the dedicated writing app I just bought from the app store. I want to talk about it a bit and share my initial <em>positive</em> experience writing with it.<br><br>
 
 <h2>The Problem</h2><br>
@@ -32,14 +32,14 @@ My favourite feature of Ulysses is the simple keyboard shortcuts. For example pr
 Here is a list <em>but not a full one</em> of the markup:<br>
 
 <ul>
-	<li>‘#’ Heading 1</li>
-	<li>‘##’ Heading 2 this continues up to ‘######’ Heading 6</li>
-	<li>‘%%’ Comment block</li>
-	<li>‘ “ ‘ Code block</li>
-	<li>‘----’ Divider</li>
-	<li>‘1.’ Ordered list</li>
-	<li>‘-‘ Unordered list</li>
-	<li>‘&gt;’ Blockquote</li>
+    <li>‘#’ Heading 1</li>
+    <li>‘##’ Heading 2 this continues up to ‘######’ Heading 6</li>
+    <li>‘%%’ Comment block</li>
+    <li>‘ “ ‘ Code block</li>
+    <li>‘----’ Divider</li>
+    <li>‘1.’ Ordered list</li>
+    <li>‘-‘ Unordered list</li>
+    <li>‘&gt;’ Blockquote</li>
 </ul>
 <br>
 These are incredibly intuitive to use and will save me time and effort; it has been well worth getting familiar with them which i’ve managed to do whilst writing this first post.<br>

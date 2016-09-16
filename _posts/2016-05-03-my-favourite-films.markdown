@@ -4,7 +4,7 @@ date:   2016-05-03 19:58:55
 image: films.png
 ---
 
-<h1>Notebooks</strong></h1>
+<h1>Notebooks</h1>
 I have notebooks scattered about my desk. Older ones get pushed out to the farthest edges like jetsam, making way for pristine white sheets. I recently became curious about these relics and started flicking through one from 2013. I can't stop myself reflexively recoiling from what 3 year ago me might have thought was important enough to preserve. Riffling through the black notebook a great big list of films I'd seen that year caught my eye, partly because it spanned a few pages in my minuscule squiggly cursive. I was clearly watching an alarming amount of films at this time, some weeks approaching 2 dozen. Whilst I now read books primarily this journey through film begun in earnest in 2010 with watching horror films for fun with friends. We'd always try and find something new and obscure to scare each other with. I still have fond memories of my Irish flatmates reaction to the finale of REC. I can enjoy any film as there's always a spark of creativity I can appreciate but from 2010 to 2013 I started to watch more challenging films. It's good to go back and take a look at what I was into in 2013.<br><br>
 
 <h3>La Nouvelle Vague</h3>
