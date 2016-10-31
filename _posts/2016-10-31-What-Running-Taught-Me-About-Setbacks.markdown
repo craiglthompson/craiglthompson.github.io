@@ -7,7 +7,7 @@ image: Jedburgh.jpg
 
 This weekend my brother and I ran in another half marathon together, our 4th as a team and my first on foreign soil. My form had been excellent, I’d set new and faster times with every race I entered. So when I arrived in Jedburgh the expectation was to get another personal best and potentially get under 1 hour 3 0 minutes for the first time. 
  
-We set off with high spirits in my brother’s dark blue Ford Focus, steamed up from our presence — both a sign of Winter’s chill and the otiose air conditioning. We were headed to Jedburgh’s running festival in Scotland and so naturally we headed up, up the motorway we went, the Sat Nav confirming our progress up the map, huge signs reading ‘THE NORTH’ further reaffarming our upwards trajectory.
+We set off with high spirits in my brother’s dark blue Ford Focus, steamed up from our presence — both a sign of Winter’s chill and the otiose air conditioning. We were headed to Jedburgh’s running festival in Scotland and so naturally we headed up, up the motorway we went, the Sat Nav confirming our progress up the map, huge signs reading ‘THE NORTH’ further reaffarming our upwards trajectory at such regular intervals I’m still seeing them, like the residual image ghosted onto plasma TVs when left on a frame too long.
 
 The Roman roads were a concrete (but mostly tarmac) manifestation of our eagerness to get to the festival, carving us an arrow-straight path through the undulating Scottish countryside. Everything about the race suggested that my preparation would pay off. Perfect weather, no wind — which can be a real problem during Jedburgh’s half marathon adding on minutes to runners’ times — and I’d had months of solid preparation leading up to this race, all the cards were lining up. 
 
